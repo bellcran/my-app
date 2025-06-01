@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: ghcr.io/bellcran/my-app
+        image: ghcr.io/dennislee-it/my-app
         ports:
         - containerPort: 8080
